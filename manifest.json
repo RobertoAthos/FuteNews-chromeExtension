@@ -1,0 +1,11 @@
+{
+    "name": "FuteNews",
+    "version": "1.0.0",
+    "description": "extension with news of the soccer games",
+    "manifest_version": 3,
+    "author": "Roberto Athos",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "FuteNews"
+    }
+}
