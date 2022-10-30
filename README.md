@@ -16,3 +16,24 @@ Simple project with html, css and javascript, being a chrome extension where it 
 ## Chrome WEBSITE: 
 
 ![image](https://user-images.githubusercontent.com/94712001/198885223-a7446b37-2580-4318-8d94-2e90069b9672.png)
+
+
+## Como colocar esse projeto como extensão do Chrome ? | How to put this project as a Chrome extension ?
+
+### 1
+
+Baixe os arquivos e siga os passo da imagem | Download the project file and follow the steps
+
+![image](https://user-images.githubusercontent.com/94712001/198886123-028d0ec4-f4cf-492e-aa0e-4cc38fa751e7.png)
+
+### 2
+
+Abilite o modo do desenvolvendor, em seguida clique em "carregar sem compactação" e selecione a pasta do projeto. </br>
+Turn on the developer mode, then click on "load unpacked" and select the project folder.
+
+![image](https://user-images.githubusercontent.com/94712001/198886227-fb2c52a2-3fea-4e61-ba5f-5e87b9f34822.png)
+
+
+### 3 
+Depois desses passos, a extensão já vai está funcionando. </br>
+After all the steps, your extension is already working.
