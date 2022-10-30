@@ -3,7 +3,7 @@
 Simples projeto com html,css e javascript, sendo uma extensão do chrome onde busca dados de jogos de futebol de uma api. </br>  </br>
 Simple project with html, css and javascript, being a chrome extension where it fetches soccer games data from an api
 
-### Live url : 
+### Live url : https://robertoathos.github.io/FuteNews-chromeExtension/
 
 ## Chorme Extension: 
 
